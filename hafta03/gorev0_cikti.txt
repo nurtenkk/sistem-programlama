@@ -1,0 +1,2 @@
+10) tr_TR.UTF-8 kurulu mu?: HAYIR -> sudo locale-gen tr_TR.UTF-8 && sudo update-locale
+11) man 3 strftime var mi?: evet

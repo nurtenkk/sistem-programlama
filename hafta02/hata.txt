@@ -1,0 +1,1 @@
+/yok/olan/dosya: acilamadi: No such file or directory (errno = 2)

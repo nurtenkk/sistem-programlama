@@ -1,0 +1,5 @@
+write(1, "A - write()\n", 12)           = 12
+write(1, "C - write()\n", 12)           = 12
+write(1, "B - printf()\nD - printf()\n", 26) = 26
+write(1, "E - write() (fflush sonrasi)\n", 29) = 29
++++ exited with 0 +++

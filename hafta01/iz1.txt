@@ -1,0 +1,3 @@
+write(1, "Kutuphane fonksiyonu ile selamla"..., 35) = 35
+write(1, "Sistem cagrisi ile selamlar .\n", 30) = 30
++++ exited with 0 +++

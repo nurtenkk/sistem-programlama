@@ -1,0 +1,2 @@
+/etc/hostname: acildi, betimleyici = 3
+Toplam 2 dosyadan 1 tanesi acilamadi.

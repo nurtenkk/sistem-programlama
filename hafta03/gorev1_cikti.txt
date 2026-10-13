@@ -1,0 +1,7 @@
+[1] Epoch saniyesi :  1791901304
+[2] Yil / Ay / Gun : 2026/10/13
+    Yilin kacinci gunu: 286
+    Yaz saati (isdst): 0
+[3] Yerel saat      : 2026-10-13 17:21:44 +03
+    UTC             : 2026-10-13 14:21:44 UTC
+    Uzun bicim      : Tuesday, 13 October 2026
